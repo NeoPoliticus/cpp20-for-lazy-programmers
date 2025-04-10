@@ -1,4 +1,4 @@
-# Apress Source Code
+# Apress Source Code jetzt bei Springer Nature
 
 This repository accompanies [*C++20 for Lazy Programmers*](https://www.apress.com/9781484263051) by Will Briggs (Apress, 2020).
 
